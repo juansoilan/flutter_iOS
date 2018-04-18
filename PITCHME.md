@@ -1,6 +1,5 @@
 <!-- $theme: default -->
 
-
 ### Flutter in 30 minutes (or less)
 ###### for iOS developers
 
@@ -11,13 +10,13 @@
 
 ---
 
-## Flutter?? WTF???
+### Flutter?? WTF???
 
 Flutter is an open source SDK from Google that helps you create native apps for mobile platforms (currently, Android & iOS) from a single codebase.
 
 ---
 
-## Why we should not use Flutter
+### Why we should not use Flutter
 
 - New technology, APIs can change
 - Flutter doesn't support maps or inline video yet
@@ -26,7 +25,7 @@ Flutter is an open source SDK from Google that helps you create native apps for 
 
 ---
 
-## Why Flutter? 
+### Why Flutter? 
 I've never been a fan of cross-platform mobile development but ... Flutter is just **magic** :sparkles:
 
 ---
@@ -41,7 +40,7 @@ I've never been a fan of cross-platform mobile development but ... Flutter is ju
 
 ---
 
-## The idea
+### The idea
 
 - Flutter is painting every single pixel you see on the screen, bypassing the native UI
 - Skia Graphics Library
@@ -50,26 +49,26 @@ I've never been a fan of cross-platform mobile development but ... Flutter is ju
 
 ---
 
-## Native apps (Objective-C/Swift)
+### Native apps (Objective-C/Swift)
 
 ![](images/uikit.png)
 
 ---
 
-## React Native apps (Javascript)
+### React Native apps (Javascript)
 
 ![](images/react.png)
 
 ---
 
-## Flutter apps (Dart)
+### Flutter apps (Dart)
 
 ![](images/flutter.png)
 
 
 ---
 
-## It is all Dart
+### It is all Dart
 
 - Compiles to native code
 - No interpreter is involved when the app runs on a device.
@@ -125,21 +124,21 @@ Future<Null> getBatteryLevel() async {
 ```
  
 ---
- ## Mr. Hot Reload
+ ### Mr. Hot Reload
 HR allows you to update the source of the app on the fly without having to restart it
 
 ![](images/reload.png)
 
 ---
 
-## Current iOS system
+### Current iOS system
 
 ![](images/iceberg.png)
 
 
 ---
 
-## Widgets
+### Widgets
 
 In Flutter, almost everything is a widget, including alignment, padding, and layout.
 
@@ -151,7 +150,7 @@ This composition architecture is very powerful. You can recompose the core widge
 ---
 
 
-## Autolayout
+### Autolayout
 
 UIKit uses a sophisticated (complicated) linear constraints model (NSLayoutAnchors, Visual Format Language)
 
@@ -167,7 +166,7 @@ Flutter with very simple constraints, can generate complex and expresive layouts
 
 ---
 
-## Demo time #1
+### Demo time #1
 
 - Visual Code
 - Hot reload
@@ -178,7 +177,7 @@ Flutter with very simple constraints, can generate complex and expresive layouts
 ---
 
 
-## Demo time #2
+### Demo time #2
 
 - Scroll
 - Cupertino widgets
@@ -187,7 +186,7 @@ Flutter with very simple constraints, can generate complex and expresive layouts
 
 ---
 
-## Enjoy Flutter! :+1:
+### Enjoy Flutter! :+1:
 
 #flutter-devs
 
