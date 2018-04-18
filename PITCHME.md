@@ -4,8 +4,7 @@
 ###### for iOS developers
 
 ![](images/background2.png)
-
-###### by Juan  
+ 
 
 
 ---
@@ -171,6 +170,7 @@ Flutter with very simple constraints, can generate complex and expresive layouts
 - Visual Code
 - Hot reload
 - Package manager
+- Xcode project
 - Open source (go to definition)
 - Recompose core components (widgets)
 
