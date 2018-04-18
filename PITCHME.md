@@ -1,8 +1,8 @@
 <!-- $theme: default -->
 
 
-# Flutter in 30 minutes (or less)
-## for iOS developers
+### Flutter in 30 minutes (or less)
+###### for iOS developers
 
 ![](images/background2.png)
 
